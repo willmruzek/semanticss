@@ -1,0 +1,29 @@
+.a {
+  background-size: 11px 20px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: absolute;
+  top: 30px;
+  bottom: 30px;
+  width: 40px;
+  text-indent: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.b {
+  position:fixed;
+  right: 30px;
+  top:10px;
+  background: black;
+  opacity: .8;
+  border-radius: 10px;
+  color:#eee;
+  padding:20px;
+  min-width: 200px;
+  max-width: 400px;
+  text-align: center;
+  z-index: 99999;
+  box-shadow: 1px 1px 5px #000;
+  display:none; 
+}

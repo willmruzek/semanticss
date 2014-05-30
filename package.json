@@ -1,0 +1,17 @@
+{
+  "name": "semanticss",
+  "version": "0.0.0",
+  "description": "Keep a custom order and grouping of your CSS properties.",
+  "main": "index.js",
+  "author": "Will Mruzek",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "css": "~1.6.0",
+    "pretty-json": "~0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
